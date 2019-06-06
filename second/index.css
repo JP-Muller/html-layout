@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    padding: 25px;
+}
+
+
+
+.firstRect {
+    padding: 10px;
+    border: 5px solid black;
+    width: 100%;
+    background: #fff;
+    box-sizing: border-box;
+}
+
+.vertRect{
+    height: 150px;
+    width: 50px;
+    background:blueviolet;
+    display: inline-block;
+
+}
+
+.greenFatty{
+    height: 200px;
+    width: 400px;
+    background: greenyellow;
+    display: inline-block;
+    margin: 0 50px;
+
+}
+
+.cyanCirc{
+    height: 200px;
+    width: 200px;
+    background: cyan;
+    border-radius: 50%;
+    display: inline-block;
+
+}
+
+.dottedRect{
+    border: dotted;
+    padding: 50px;
+    box-sizing: border-box;
+    width: 100%;
+    margin-top: 25px;
+    
+}
+
+.shadeRect{
+    width: 100%;
+    height: 200px;
+    background: tan;
+    box-shadow: 10px 10px 5px 0px black;
+
+}
+
+.helloRect{
+    width: 50%;
+    margin: 25px auto;
+    border: 1px solid gray;
+    background:#fff;
+    padding: 100px;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 1px 0px  gray;
+
+}
+
+.helloRect h1{
+    width: 100%;
+    text-align: center;
+    color: navy;
+    letter-spacing: 10px;
+}

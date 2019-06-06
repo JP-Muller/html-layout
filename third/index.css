@@ -1,0 +1,57 @@
+body{
+margin: 0;
+padding: 0;
+
+}
+
+.headContainer{
+    height: 150px;
+    width: 100%;
+    background: rgba(211, 203, 203, 0.74);
+
+
+}
+
+.childSquare{
+    background: rgb(97, 149, 226);
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin: 10px;
+}
+
+.textContainer{
+    box-sizing: border-box;
+
+}
+
+.textContainer p{
+    text-align: center;
+    font-size: 25px;
+    padding: 25px;
+
+}
+
+.colorBand1{
+    height: 150px;
+    width: 100vw;
+    background: rgba(30, 130, 197, 0.993);
+}
+
+.colorBand2{
+    height: 150px;
+    width: 100vw;
+    background: rgba(20, 207, 176, 0.993);
+}
+
+.colorBand3{
+    height: 150px;
+    width: 100vw;
+    background: rgba(133, 184, 92, 0.788);
+}
+
+.colorBand4{
+    height: 150px;
+    width: 100vw;
+    background: rgba(238, 234, 15, 0.993);
+}
